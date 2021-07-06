@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 796caf653f0c5274d91f890d1b95d12d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: hy_shiqiao001
+    100002: //RootNode
+    100004: hy_shiqiaohuolu003
+    100006: hy_shiqiaohuolu004
+    100008: hy_shiqiaotielian003
+    100010: hy_shiqiaotielian004
+    100012: hy_shiqiaozhuzhiwang001
+    100014: Object1757
+    100016: hy_shiqiao
+    100018: hy_shiqiaohuolu01
+    100020: hy_shiqiaohuolu02
+    100022: hy_shiqiaotielian01
+    100024: hy_shiqiaotielian02
+    100026: hy_shiqiaozhuzhiwang
+    100028: Object1832
+    100030: Object1833
+    100032: Object1834
+    100034: Object1835
+    100036: Object1836
+    100038: Object1837
+    100040: Object1838
+    100042: Object1839
+    100044: Object1840
+    100046: Object1841
+    400000: hy_shiqiao001
+    400002: //RootNode
+    400004: hy_shiqiaohuolu003
+    400006: hy_shiqiaohuolu004
+    400008: hy_shiqiaotielian003
+    400010: hy_shiqiaotielian004
+    400012: hy_shiqiaozhuzhiwang001
+    400014: Object1757
+    400016: hy_shiqiao
+    400018: hy_shiqiaohuolu01
+    400020: hy_shiqiaohuolu02
+    400022: hy_shiqiaotielian01
+    400024: hy_shiqiaotielian02
+    400026: hy_shiqiaozhuzhiwang
+    400028: Object1832
+    400030: Object1833
+    400032: Object1834
+    400034: Object1835
+    400036: Object1836
+    400038: Object1837
+    400040: Object1838
+    400042: Object1839
+    400044: Object1840
+    400046: Object1841
+    2100000: 'Material #6756'
+    2100002: 'Material #6765'
+    2300000: hy_shiqiao001
+    2300002: hy_shiqiaohuolu003
+    2300004: hy_shiqiaohuolu004
+    2300006: hy_shiqiaotielian003
+    2300008: hy_shiqiaotielian004
+    2300010: hy_shiqiaozhuzhiwang001
+    2300012: hy_shiqiao
+    2300014: hy_shiqiaohuolu01
+    2300016: hy_shiqiaohuolu02
+    2300018: hy_shiqiaotielian01
+    2300020: hy_shiqiaotielian02
+    2300022: hy_shiqiaozhuzhiwang
+    2300024: Object1832
+    2300026: Object1833
+    2300028: Object1834
+    2300030: Object1835
+    2300032: Object1836
+    2300034: Object1837
+    2300036: Object1838
+    2300038: Object1839
+    2300040: Object1840
+    2300042: Object1841
+    3300000: hy_shiqiao001
+    3300002: hy_shiqiaohuolu003
+    3300004: hy_shiqiaohuolu004
+    3300006: hy_shiqiaotielian003
+    3300008: hy_shiqiaotielian004
+    3300010: hy_shiqiaozhuzhiwang001
+    3300012: hy_shiqiao
+    3300014: hy_shiqiaohuolu01
+    3300016: hy_shiqiaohuolu02
+    3300018: hy_shiqiaotielian01
+    3300020: hy_shiqiaotielian02
+    3300022: hy_shiqiaozhuzhiwang
+    3300024: Object1832
+    3300026: Object1833
+    3300028: Object1834
+    3300030: Object1835
+    3300032: Object1836
+    3300034: Object1837
+    3300036: Object1838
+    3300038: Object1839
+    3300040: Object1840
+    3300042: Object1841
+    4300000: hy_shiqiao001
+    4300002: hy_shiqiaotielian003
+    4300004: hy_shiqiaohuolu003
+    4300006: hy_shiqiaotielian004
+    4300008: hy_shiqiaohuolu004
+    4300010: hy_shiqiaozhuzhiwang001
+    4300012: Object1832
+    4300014: Object1833
+    4300016: Object1834
+    4300018: Object1835
+    4300020: Object1836
+    4300022: Object1837
+    4300024: Object1838
+    4300026: Object1839
+    4300028: Object1840
+    4300030: Object1841
+    4300032: hy_shiqiao
+    4300034: hy_shiqiaozhuzhiwang
+    4300036: hy_shiqiaohuolu01
+    4300038: hy_shiqiaotielian01
+    4300040: hy_shiqiaohuolu02
+    4300042: hy_shiqiaotielian02
+    6400000: hy_shiqiao001
+    6400002: hy_shiqiaohuolu003
+    6400004: hy_shiqiaohuolu004
+    6400006: hy_shiqiaotielian003
+    6400008: hy_shiqiaotielian004
+    6400010: hy_shiqiaozhuzhiwang001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

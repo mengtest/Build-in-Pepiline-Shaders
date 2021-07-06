@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: aaaf959d195132447a1ad2eb0c52321c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: csfb_baoshilan
+    100002: csfb_baoshilv
+    100004: csfb_baoshzi
+    100006: csfb_baowudui
+    100008: csfb_baowudui01
+    100010: csfb_baowudui02
+    100012: csfb_baowudui03
+    100014: csfb_baowudui04
+    100016: csfb_baowudui05
+    100018: csfb_qiandui
+    100020: csfb_shujuan
+    100022: csfb_shujuan02
+    100024: csfb_shujuan03
+    100026: csfb_tongqian01
+    100028: //RootNode
+    100030: csfb_yuanbao
+    100032: csfb_baoxiang02
+    100034: csfb_baoxiang04
+    100036: csfb_baoxiang1
+    400000: csfb_baoshilan
+    400002: csfb_baoshilv
+    400004: csfb_baoshzi
+    400006: csfb_baowudui
+    400008: csfb_baowudui01
+    400010: csfb_baowudui02
+    400012: csfb_baowudui03
+    400014: csfb_baowudui04
+    400016: csfb_baowudui05
+    400018: csfb_qiandui
+    400020: csfb_shujuan
+    400022: csfb_shujuan02
+    400024: csfb_shujuan03
+    400026: csfb_tongqian01
+    400028: //RootNode
+    400030: csfb_yuanbao
+    400032: csfb_baoxiang02
+    400034: csfb_baoxiang04
+    400036: csfb_baoxiang1
+    2100000: 'Material #1534'
+    2300000: csfb_baoshilan
+    2300002: csfb_baoshilv
+    2300004: csfb_baoshzi
+    2300006: csfb_baowudui
+    2300008: csfb_baowudui01
+    2300010: csfb_baowudui02
+    2300012: csfb_baowudui03
+    2300014: csfb_baowudui04
+    2300016: csfb_baowudui05
+    2300018: csfb_qiandui
+    2300020: csfb_shujuan
+    2300022: csfb_shujuan02
+    2300024: csfb_shujuan03
+    2300026: csfb_tongqian01
+    2300028: csfb_yuanbao
+    2300030: csfb_baoxiang02
+    2300032: csfb_baoxiang04
+    2300034: csfb_baoxiang1
+    3300000: csfb_baoshilan
+    3300002: csfb_baoshilv
+    3300004: csfb_baoshzi
+    3300006: csfb_baowudui
+    3300008: csfb_baowudui01
+    3300010: csfb_baowudui02
+    3300012: csfb_baowudui03
+    3300014: csfb_baowudui04
+    3300016: csfb_baowudui05
+    3300018: csfb_qiandui
+    3300020: csfb_shujuan
+    3300022: csfb_shujuan02
+    3300024: csfb_shujuan03
+    3300026: csfb_tongqian01
+    3300028: csfb_yuanbao
+    3300030: csfb_baoxiang02
+    3300032: csfb_baoxiang04
+    3300034: csfb_baoxiang1
+    4300000: csfb_shujuan02
+    4300002: csfb_shujuan
+    4300004: csfb_shujuan03
+    4300006: csfb_tongqian01
+    4300008: csfb_yuanbao
+    4300010: csfb_baoshilan
+    4300012: csfb_baoshilv
+    4300014: csfb_baoshzi
+    4300016: csfb_baowudui
+    4300018: csfb_baowudui03
+    4300020: csfb_baowudui01
+    4300022: csfb_baowudui02
+    4300024: csfb_baowudui05
+    4300026: csfb_baowudui04
+    4300028: csfb_qiandui
+    4300030: csfb_baoxiang1
+    4300032: csfb_baoxiang04
+    4300034: csfb_baoxiang02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

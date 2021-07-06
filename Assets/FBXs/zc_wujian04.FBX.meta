@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: c76e15007bb30954aa4035ca76fd933d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Object1221848362
+    100002: Object1221848363
+    100004: Object1221848364
+    100006: Object1221848380
+    100008: Object1221848381
+    100010: Object1221848403
+    100012: Object1221848404
+    100014: zc00000
+    100016: zc00001
+    100018: zc00009
+    100020: zc00011
+    100022: //RootNode
+    100024: zcab01
+    100026: zcab07
+    100028: zcab12
+    100030: zcab13
+    100032: zcab17
+    400000: Object1221848362
+    400002: Object1221848363
+    400004: Object1221848364
+    400006: Object1221848380
+    400008: Object1221848381
+    400010: Object1221848403
+    400012: Object1221848404
+    400014: zc00000
+    400016: zc00001
+    400018: zc00009
+    400020: zc00011
+    400022: //RootNode
+    400024: zcab01
+    400026: zcab07
+    400028: zcab12
+    400030: zcab13
+    400032: zcab17
+    2100000: 'Material #368010350'
+    2100002: 'Material #368010305'
+    2100004: 'Material #479'
+    2100006: 'Material #368010324'
+    2100008: 'Material #368010265'
+    2100010: "\u62A4\u680F"
+    2300000: Object1221848362
+    2300002: Object1221848363
+    2300004: Object1221848364
+    2300006: Object1221848380
+    2300008: Object1221848381
+    2300010: Object1221848403
+    2300012: Object1221848404
+    2300014: zc00000
+    2300016: zc00001
+    2300018: zc00009
+    2300020: zc00011
+    2300022: zcab01
+    2300024: zcab07
+    2300026: zcab12
+    2300028: zcab13
+    2300030: zcab17
+    3300000: Object1221848362
+    3300002: Object1221848363
+    3300004: Object1221848364
+    3300006: Object1221848380
+    3300008: Object1221848381
+    3300010: Object1221848403
+    3300012: Object1221848404
+    3300014: zc00000
+    3300016: zc00001
+    3300018: zc00009
+    3300020: zc00011
+    3300022: zcab01
+    3300024: zcab07
+    3300026: zcab12
+    3300028: zcab13
+    3300030: zcab17
+    4300000: zcab01
+    4300002: zcab12
+    4300004: zcab13
+    4300006: zcab17
+    4300008: zc00009
+    4300010: zc00001
+    4300012: zc00000
+    4300014: zc00011
+    4300016: Object1221848362
+    4300018: Object1221848363
+    4300020: Object1221848364
+    4300022: Object1221848380
+    4300024: zcab07
+    4300026: Object1221848381
+    4300028: Object1221848403
+    4300030: Object1221848404
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: d6729d840b6717d4f999f50d5c0fea7e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1111
+    100002: zc000
+    100004: zc001
+    100006: zc002
+    100008: zc003
+    100010: zc004
+    100012: zc005
+    100014: zc006
+    100016: zc007
+    100018: zc008
+    100020: zc009
+    100022: zc010
+    100024: zc011
+    100026: zc012
+    100028: zc013
+    100030: zc014
+    100032: zc015
+    100034: zc016
+    100036: zc017
+    100038: zc018
+    100040: zc019
+    100042: zc020
+    100044: zc021
+    100046: zc022
+    100048: zc023
+    100050: zc024
+    100052: zc025
+    100054: zc026
+    100056: zc027
+    100058: zc028
+    100060: zc029
+    100062: //RootNode
+    100064: zhucheng361
+    100066: zhucheng362
+    100068: zc0192
+    400000: 1111
+    400002: zc000
+    400004: zc001
+    400006: zc002
+    400008: zc003
+    400010: zc004
+    400012: zc005
+    400014: zc006
+    400016: zc007
+    400018: zc008
+    400020: zc009
+    400022: zc010
+    400024: zc011
+    400026: zc012
+    400028: zc013
+    400030: zc014
+    400032: zc015
+    400034: zc016
+    400036: zc017
+    400038: zc018
+    400040: zc019
+    400042: zc020
+    400044: zc021
+    400046: zc022
+    400048: zc023
+    400050: zc024
+    400052: zc025
+    400054: zc026
+    400056: zc027
+    400058: zc028
+    400060: zc029
+    400062: //RootNode
+    400064: zhucheng361
+    400066: zhucheng362
+    400068: zc0192
+    2100000: 'Material #479'
+    2100002: 'Material #368010282'
+    2100004: 'Material #601'
+    2100006: 'Material #368010283'
+    2100008: 'Material #368010281'
+    2100010: 'Material #25'
+    2100012: 'Material #368010280'
+    2100014: 'Material #719'
+    2100016: 'Material #36801154'
+    2100018: 'Material #603'
+    2100020: 'Material #713'
+    2100022: zhucheng_02
+    2100024: 'Material #36801141'
+    2100026: 'Material #368010288'
+    2100028: 'Material #732'
+    2100030: 'Material #717'
+    2100032: 'Material #368010264'
+    2100034: 'Material #602'
+    2100036: zhucheng_01
+    2100038: 'Material #36802631'
+    2300000: zc000
+    2300002: zc001
+    2300004: zc002
+    2300006: zc003
+    2300008: zc004
+    2300010: zc005
+    2300012: zc006
+    2300014: zc007
+    2300016: zc008
+    2300018: zc009
+    2300020: zc010
+    2300022: zc011
+    2300024: zc012
+    2300026: zc013
+    2300028: zc014
+    2300030: zc015
+    2300032: zc016
+    2300034: zc017
+    2300036: zc018
+    2300038: zc019
+    2300040: zc020
+    2300042: zc021
+    2300044: zc022
+    2300046: zc023
+    2300048: zc024
+    2300050: zc025
+    2300052: zc026
+    2300054: zc027
+    2300056: zc028
+    2300058: zc029
+    2300060: zhucheng361
+    2300062: zhucheng362
+    2300064: zc0192
+    3300000: zc000
+    3300002: zc001
+    3300004: zc002
+    3300006: zc003
+    3300008: zc004
+    3300010: zc005
+    3300012: zc006
+    3300014: zc007
+    3300016: zc008
+    3300018: zc009
+    3300020: zc010
+    3300022: zc011
+    3300024: zc012
+    3300026: zc013
+    3300028: zc014
+    3300030: zc015
+    3300032: zc016
+    3300034: zc017
+    3300036: zc018
+    3300038: zc019
+    3300040: zc020
+    3300042: zc021
+    3300044: zc022
+    3300046: zc023
+    3300048: zc024
+    3300050: zc025
+    3300052: zc026
+    3300054: zc027
+    3300056: zc028
+    3300058: zc029
+    3300060: zhucheng361
+    3300062: zhucheng362
+    3300064: zc0192
+    4300000: zc000
+    4300002: zc001
+    4300004: zc002
+    4300006: zc003
+    4300008: zc004
+    4300010: zc005
+    4300012: zc006
+    4300014: zc007
+    4300016: zc008
+    4300018: zc009
+    4300020: zc010
+    4300022: zc011
+    4300024: zc012
+    4300026: zc013
+    4300028: zc014
+    4300030: zc015
+    4300032: zc016
+    4300034: zc017
+    4300036: zc018
+    4300038: zc019
+    4300040: zc020
+    4300042: zc021
+    4300044: zc022
+    4300046: zc023
+    4300048: zc024
+    4300050: zc025
+    4300052: zc026
+    4300054: zc027
+    4300056: zc028
+    4300058: zc029
+    4300060: zhucheng361
+    4300062: zhucheng362
+    4300064: zc0192
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

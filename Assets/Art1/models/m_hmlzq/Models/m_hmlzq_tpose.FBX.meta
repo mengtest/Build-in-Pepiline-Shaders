@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 96f2e1924017ed24c8a84e631d5813c1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 HeadNub
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger0Nub
+    100014: Bip001 L Foot
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L HorseLink
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe0Nub
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Neck1
+    100034: Bip001 Pelvis
+    100036: Bip001 R Calf
+    100038: Bip001 R Clavicle
+    100040: Bip001 R Finger0
+    100042: Bip001 R Finger0Nub
+    100044: Bip001 R Foot
+    100046: Bip001 R Forearm
+    100048: Bip001 R Hand
+    100050: Bip001 R HorseLink
+    100052: Bip001 R Thigh
+    100054: Bip001 R Toe0
+    100056: Bip001 R Toe0Nub
+    100058: Bip001 R UpperArm
+    100060: Bip001 Spine
+    100062: Bip001 Spine1
+    100064: Bip001 Spine2
+    100066: Bip002
+    100068: Bip002 Head
+    100070: Bip002 HeadNub
+    100072: Bip002 L Calf
+    100074: Bip002 L Clavicle
+    100076: Bip002 L Finger0
+    100078: Bip002 L Finger0Nub
+    100080: Bip002 L Foot
+    100082: Bip002 L Forearm
+    100084: Bip002 L Hand
+    100086: Bip002 L HorseLink
+    100088: Bip002 L Thigh
+    100090: Bip002 L Toe0
+    100092: Bip002 L Toe0Nub
+    100094: Bip002 L UpperArm
+    100096: Bip002 Neck
+    100098: Bip002 Neck1
+    100100: Bip002 Pelvis
+    100102: Bip002 R Calf
+    100104: Bip002 R Clavicle
+    100106: Bip002 R Finger0
+    100108: Bip002 R Finger0Nub
+    100110: Bip002 R Foot
+    100112: Bip002 R Forearm
+    100114: Bip002 R Hand
+    100116: Bip002 R HorseLink
+    100118: Bip002 R Thigh
+    100120: Bip002 R Toe0
+    100122: Bip002 R Toe0Nub
+    100124: Bip002 R UpperArm
+    100126: Bip002 Spine
+    100128: Bip002 Spine1
+    100130: Bip002 Spine2
+    100132: Bone003
+    100134: Bone011
+    100136: Bone011(mirrored)
+    100138: Bone012
+    100140: Bone032
+    100142: Bone041
+    100144: Bone045
+    100146: Bone046
+    100148: Bone047
+    100150: Bone048
+    100152: Bone050
+    100154: Bone050(mirrored)
+    100156: Bone050(mirrored)001
+    100158: Bone051
+    100160: Bone051(mirrored)
+    100162: Bone051(mirrored)001
+    100164: Bone053
+    100166: Bone054
+    100168: Bone055
+    100170: Bone056
+    100172: Bone058
+    100174: Bone058(mirrored)
+    100176: Bone058(mirrored)001
+    100178: Bone060
+    100180: Bone061
+    100182: Bone063
+    100184: Bone064
+    100186: Bone066
+    100188: Bone067
+    100190: Bone068
+    100192: Bone069
+    100194: Bone071
+    100196: Bone073
+    100198: Bone073(mirrored)
+    100200: Bone075
+    100202: Bone075(mirrored)
+    100204: Bone076
+    100206: Bone076(mirrored)
+    100208: Bone078
+    100210: Bone078(mirrored)
+    100212: m_hmlzq
+    100214: //RootNode
+    100216: r
+    100218: Bone052(mirrored)
+    100220: Bone079
+    100222: Bone080
+    100224: Dummy001
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 HeadNub
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger0Nub
+    400014: Bip001 L Foot
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L HorseLink
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe0Nub
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Neck1
+    400034: Bip001 Pelvis
+    400036: Bip001 R Calf
+    400038: Bip001 R Clavicle
+    400040: Bip001 R Finger0
+    400042: Bip001 R Finger0Nub
+    400044: Bip001 R Foot
+    400046: Bip001 R Forearm
+    400048: Bip001 R Hand
+    400050: Bip001 R HorseLink
+    400052: Bip001 R Thigh
+    400054: Bip001 R Toe0
+    400056: Bip001 R Toe0Nub
+    400058: Bip001 R UpperArm
+    400060: Bip001 Spine
+    400062: Bip001 Spine1
+    400064: Bip001 Spine2
+    400066: Bip002
+    400068: Bip002 Head
+    400070: Bip002 HeadNub
+    400072: Bip002 L Calf
+    400074: Bip002 L Clavicle
+    400076: Bip002 L Finger0
+    400078: Bip002 L Finger0Nub
+    400080: Bip002 L Foot
+    400082: Bip002 L Forearm
+    400084: Bip002 L Hand
+    400086: Bip002 L HorseLink
+    400088: Bip002 L Thigh
+    400090: Bip002 L Toe0
+    400092: Bip002 L Toe0Nub
+    400094: Bip002 L UpperArm
+    400096: Bip002 Neck
+    400098: Bip002 Neck1
+    400100: Bip002 Pelvis
+    400102: Bip002 R Calf
+    400104: Bip002 R Clavicle
+    400106: Bip002 R Finger0
+    400108: Bip002 R Finger0Nub
+    400110: Bip002 R Foot
+    400112: Bip002 R Forearm
+    400114: Bip002 R Hand
+    400116: Bip002 R HorseLink
+    400118: Bip002 R Thigh
+    400120: Bip002 R Toe0
+    400122: Bip002 R Toe0Nub
+    400124: Bip002 R UpperArm
+    400126: Bip002 Spine
+    400128: Bip002 Spine1
+    400130: Bip002 Spine2
+    400132: Bone003
+    400134: Bone011
+    400136: Bone011(mirrored)
+    400138: Bone012
+    400140: Bone032
+    400142: Bone041
+    400144: Bone045
+    400146: Bone046
+    400148: Bone047
+    400150: Bone048
+    400152: Bone050
+    400154: Bone050(mirrored)
+    400156: Bone050(mirrored)001
+    400158: Bone051
+    400160: Bone051(mirrored)
+    400162: Bone051(mirrored)001
+    400164: Bone053
+    400166: Bone054
+    400168: Bone055
+    400170: Bone056
+    400172: Bone058
+    400174: Bone058(mirrored)
+    400176: Bone058(mirrored)001
+    400178: Bone060
+    400180: Bone061
+    400182: Bone063
+    400184: Bone064
+    400186: Bone066
+    400188: Bone067
+    400190: Bone068
+    400192: Bone069
+    400194: Bone071
+    400196: Bone073
+    400198: Bone073(mirrored)
+    400200: Bone075
+    400202: Bone075(mirrored)
+    400204: Bone076
+    400206: Bone076(mirrored)
+    400208: Bone078
+    400210: Bone078(mirrored)
+    400212: m_hmlzq
+    400214: //RootNode
+    400216: r
+    400218: Bone052(mirrored)
+    400220: Bone079
+    400222: Bone080
+    400224: Dummy001
+    4300000: m_hmlzq
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: m_hmlzq
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
